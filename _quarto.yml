@@ -1,5 +1,9 @@
 project:
   type: manuscript
+  
+title: "My Document"
+bibliography: references.bib
+csl: nature.csl
 
 manuscript:
   article: index.qmd

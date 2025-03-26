@@ -66,32 +66,30 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 <body>
 <sec id="section">
   <title>Section</title>
-  <p>This is a simple placeholder for the manuscript’s main document
-  (<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
-  1984</xref>).</p>
+  <p>This is a simple placeholder for the manuscript’s main
+  document<sup><xref alt="1" rid="ref-johnson2023restructuring" ref-type="bibr">1</xref></sup>.</p>
 </sec>
 </body>
 
 <back>
 <ref-list>
   <title></title>
-  <ref id="ref-knuth84">
+  <ref id="ref-johnson2023restructuring">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
-        <name><surname>Knuth</surname><given-names>Donald E.</given-names></name>
+        <name><surname>Johnson</surname><given-names>J Michael</given-names></name>
+        <name><surname>Blodgett</surname><given-names>David L</given-names></name>
+        <name><surname>Clarke</surname><given-names>Keith C</given-names></name>
+        <name><surname>Pollak</surname><given-names>Jon</given-names></name>
       </person-group>
-      <article-title>Literate programming</article-title>
-      <source>Comput. J.</source>
-      <publisher-name>Oxford University Press, Inc.</publisher-name>
-      <publisher-loc>USA</publisher-loc>
-      <year iso-8601-date="1984-05">1984</year><month>05</month>
-      <volume>27</volume>
-      <issue>2</issue>
-      <issn>0010-4620</issn>
-      <uri>https://doi.org/10.1093/comjnl/27.2.97</uri>
-      <pub-id pub-id-type="doi">10.1093/comjnl/27.2.97</pub-id>
-      <fpage>97</fpage>
-      <lpage>111</lpage>
+      <article-title>Restructuring and serving web-accessible streamflow data from the NOAA national water model historic simulations</article-title>
+      <source>Scientific Data</source>
+      <publisher-name>Nature Publishing Group UK London</publisher-name>
+      <year iso-8601-date="2023">2023</year>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>725</fpage>
+      <lpage></lpage>
     </element-citation>
   </ref>
 </ref-list>
